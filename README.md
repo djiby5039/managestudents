@@ -7,6 +7,7 @@ Vous pouvez supprimer l'eleve
 
 # Pour demarrer l'application application
 npm install pour installer les packages 
+npm run start
 
 # Les outils utiliser pour mettre en place le projet sont
  Base de donnees mongodb 
